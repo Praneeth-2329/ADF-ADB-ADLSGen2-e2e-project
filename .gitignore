@@ -1,0 +1,15 @@
+# Ignore temporary and sensitive files
+__pycache__/
+*.pyc
+*.log
+*.db
+*.env
+*.zip
+*.bak
+.DS_Store
+
+
+
+# Jupyter/Databricks artifacts
+.ipynb_checkpoints/
+.dbc
