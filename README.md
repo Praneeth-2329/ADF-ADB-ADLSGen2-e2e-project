@@ -1,1 +1,0 @@
-# ADF-ADB-ADLSGen2-e2e-project
